@@ -1,21 +1,11 @@
-js-curso
------
-1. Variáveis
-2. Objetos
-3. Constantes
-4. Array
-5. Functions
-6. If-else
-7. Operadores
+Fase 1 - Lógica
+===
 
-### Exerc. 1
+### Exerc. 1 - Variáveis
 1. Criar as variáveis: cargo, salário, escolaridade, idade, nome, em experiência - Nnehuma variável deve conter acento e devem ser em minúsculas
 2. Criar o objeto Funcionario com as vars acima
 3. Criar a constante horas trabalhadas na semana para todos os funcionários
 4. Criar 3 funcionários e colocar dentro de um array
-
-Resultados esperados:
-1. Imprimir cada etapa do fluxo
 
 ### Exerc. 2
 1. Criar uma função de somar as notas dos alunos, sendo que cada aluno terá 4 notas, de 0 a 10
@@ -39,3 +29,13 @@ Notas:
 Aluno 1: Nome: Joao, Notas: 2, 4, 10, 9
 Aluno 2: Nome: Jose, Notas: 8, 8, 10, 9
 Aluno 3: Nome: Maria, Notas: 2, 4, 1, 9
+
+### Exerc. 5
+1. Criar uma função para calcular a média das notas do ano, serão 4 notas.
+2. Criar uma função para adicionar numa lista o objeto Aluno que deverá ter: nome e quatro notas.
+3. Percorrer a lista e imprimir a média de cada um da lista
+4. Verificar qual aluno está aprovado, reprovado e em recuperação e imprimir cada caso
+5. Percorrer a lista e obter a média entre os todas as notas de todos os alunos, e imprimir o resultado
+6. 
+
+Notas: Aluno 1: Nome: Joao, Notas: 2, 4, 10, 9 Aluno 2: Nome: Jose, Notas: 8, 8, 10, 9 Aluno 3: Nome: Maria, Notas: 2, 4, 1, 9

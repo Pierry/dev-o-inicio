@@ -39,3 +39,9 @@ Aluno 3: Nome: Maria, Notas: 2, 4, 1, 9
 6. 
 
 Notas: Aluno 1: Nome: Joao, Notas: 2, 4, 10, 9 Aluno 2: Nome: Jose, Notas: 8, 8, 10, 9 Aluno 3: Nome: Maria, Notas: 2, 4, 1, 9
+
+### Exerc. 6
+
+1. Crie uma função que recebe 2 valores, um será o aluguel e o outro será o valor do imóvel
+2. Dentro da função, com o valor do imóvel calcule 4% do valor.
+3. Após encontrar os 4% verifique se o valor é maior que o valor do aluguel e caso seja maior, imprima 'Não vale a pena' e se for menor que o aluguel, imprima 'vale a pena'

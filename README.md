@@ -45,3 +45,9 @@ Notas: Aluno 1: Nome: Joao, Notas: 2, 4, 10, 9 Aluno 2: Nome: Jose, Notas: 8, 8,
 1. Crie uma função que recebe 2 valores, um será o aluguel e o outro será o valor do imóvel
 2. Dentro da função, com o valor do imóvel calcule 4% do valor.
 3. Após encontrar os 4% verifique se o valor é maior que o valor do aluguel e caso seja maior, imprima 'Não vale a pena' e se for menor que o aluguel, imprima 'vale a pena'
+
+### Exerc. 7 - Parte 1
+Um consultório está com dificuldade para gerenciar seus pacientes, é necessário um cadastro de pacientes e médicos, agendamento de consultas e gerenciamento do pagamento de cada especialidade.
+1. Crie uma função que cria um Paciente com os atributos: Id do paciente, nome, sobrenome, idade, endereço, telefone e adiciona na lista de pacientes
+2. Crie uma função que cria um Médico com os atributos: Id do médico, nome, sobrenome, idade, CRM, especialidade e adiciona na lista de médicos
+3. Cria uma função que agenda uma consulta, com os parâmetros Id do paciente, id do médico, data, horário.

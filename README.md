@@ -51,3 +51,8 @@ Um consultório está com dificuldade para gerenciar seus pacientes, é necessá
 1. Crie uma função que cria um Paciente com os atributos: Id do paciente, nome, sobrenome, idade, endereço, telefone e adiciona na lista de pacientes
 2. Crie uma função que cria um Médico com os atributos: Id do médico, nome, sobrenome, idade, CRM, especialidade e adiciona na lista de médicos
 3. Cria uma função que agenda uma consulta, com os parâmetros Id do paciente, id do médico, data, horário.
+
+### Exerc. 7 - Parte 2
+1. Crie 2 pacientes e um médico nas listas
+2. Dentro da função efetuar consulta, faça um busca pelo id do paciente e id do médico nas listas e salve o nome de cada um deles na consulta.
+3. Ao imprimir a consulta, mostre também o nome do médico e do paciente

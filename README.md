@@ -56,3 +56,9 @@ Um consultório está com dificuldade para gerenciar seus pacientes, é necessá
 1. Crie 2 pacientes e um médico nas listas
 2. Dentro da função efetuar consulta, faça um busca pelo id do paciente e id do médico nas listas e salve o nome de cada um deles na consulta.
 3. Ao imprimir a consulta, mostre também o nome do médico e do paciente
+
+### Exerc. 7 - Parte 3
+1. Altere a função criarMedico, criarPaciente para receber como parâmetro todos os atributos.
+2. Solicite ao usuário para digitar cada dado do paciente e do médico para adicionar nas listas
+3. Crie a consulta solicitando ao usuário cada dado, como data, hora, paciente e médico.
+4. Mostre as opções de médicos e pacientes existentes no momento da criação da consulta.
